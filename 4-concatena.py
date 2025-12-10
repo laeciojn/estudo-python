@@ -2,6 +2,7 @@ name = input("Digite o nome do filme: ")
 yearLaunch = int(input("Digite o ano do filme: "))
 noteMovie = float(input("Digite a nota do filme: "))
 
+
 print("\nDados do filme:")
 print("")
 # Alternativa 2
