@@ -1,9 +1,12 @@
+
 filmInception = {
+   # chaves são sempre únicas 
   "title" : "Inception",
   "yearRealease" : 2010,
   "imdbRating": 8.8,
   "genre": ["Sci-fi", "Action", "Thriller"]
 }
+
 print(filmInception)
 print(len(filmInception))
 print(type(filmInception))
